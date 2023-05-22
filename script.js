@@ -34,7 +34,7 @@ const quizData = [
     }, {
         question: 'Why did Kayla decide to switch careers?',
         a: 'the money',
-        b: 'failing out of school',
+        b: 'gained many different interests in school',
         c: 'wanted a switch in pace',
         d: 'better overall work/life balance and skills',
         e: 'all of the above',
